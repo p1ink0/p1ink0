@@ -1,11 +1,11 @@
 
-<h1 align="center">Hey, I'm Joy Boy -> An avid learner and researcher :)</h1>
+<h1 align="center">Hey, I'm p1ink0 -> An avid learner and researcher :)</h1>
 
 
 
 
 <p align="center">
-  <img width="870" height="388" src="https://github.com/posh5/S4NTADAY/blob/main/cyber.gif">
+  <img width="870" height="388" src="https://github.com/p1ink0/S4NTADAY/blob/main/cyber.gif">
 </p>
 
 
@@ -13,7 +13,7 @@
 - Learning reverse engineering and malware analysis
 
 <p align="center">
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=joyboyy29&hide=contribs,prs&count_private=true&show_icons=true&theme=radical&border_radius=15&hide_border=true&bg_color=00000000">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=p1ink0&hide=contribs,prs&count_private=true&show_icons=true&theme=radical&border_radius=15&hide_border=true&bg_color=00000000">
     <img height="100%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=joyboyy29&theme=radical&border_radius=15&hide_border=true&hide=makefile&langs_count=3&bg_color=00000000"/>
   </p>
 
