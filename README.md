@@ -12,17 +12,6 @@
 ## Adventurer
 - Learning reverse engineering and malware analysis
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=p1ink0&hide=contribs,prs&count_private=true&show_icons=true&theme=radical&border_radius=15&hide_border=true&bg_color=00000000"
-    width="49%"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=p1ink0&theme=radical&border_radius=15&hide_border=true&hide=makefile&langs_count=3&bg_color=00000000&layout=compact"
-    width="37%"
-  />
-</p>
-
 <h2 align="center">Contact</h2>
 <h3 align="center">Suggestions + Advice + Guidance Appreciated </h3>
 <h4 align="center">Reverse engineer + Avid Learner + Software developer</h4>
