@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img width="870" height="388" src="https://github.com/p1ink0/S4NTADAY/blob/main/cyber.gif">
+  <img width="870" height="388" src="https://github.com/posh5/S4NTADAY/blob/main/cyber.gif">
 </p>
 
 
